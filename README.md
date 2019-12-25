@@ -1,4 +1,7 @@
 Using_GOES_Images
+(Draft, still in process)
+(Borrador, trabajo en proceso)
+
 
 Conjunto de notebooks desarrollados en python que describen el uso y análisis de las imagenes de la Mascara de Nubes de ABI (ACM) 
 de satelite geoestacionario GOES 16.
